@@ -1,0 +1,6 @@
+{
+    "name": "controlz/CalFileParser",
+    "autoload": {
+      "classmap": ["CalFileParser.php"]
+    }
+}
